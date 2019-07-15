@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="kuch_bhe" label="kuch bhe" language="en" table="x_377134_test_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>kuch_bhe</element>
+            <help/>
+            <hint/>
+            <label>kuch bhe</label>
+            <language>en</language>
+            <name>x_377134_test_test</name>
+            <plural>kuch bhes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-15 10:53:36</sys_created_on>
+            <sys_id>3c295e93dba23300d6bfd426ca96192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>kuch bhe</sys_name>
+            <sys_package display_value="Test" source="x_377134_test">069e429bdb623300d6bfd426ca961952</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test">069e429bdb623300d6bfd426ca961952</sys_scope>
+            <sys_update_name>sys_documentation_x_377134_test_test_kuch_bhe_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-15 10:53:36</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

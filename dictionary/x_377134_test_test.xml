@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Test" max_length="40" name="x_377134_test_test" type="collection">
+        <element label="Caller" mandatory="true" max_length="32" name="caller" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="kuch bhe" max_length="100" name="kuch_bhe" type="string"/>
+    </element>
+</database>
